@@ -1,4 +1,4 @@
-**OpenGuessr Cheat Instructions**
+**OpenGuessr Cheat By Rxseesh**
 =====================================
 **Warning: Cheating can ruin the game for others!**
 Please use this script responsibly and at your own risk. The creator does not condone cheating and will not be held responsible for any abuse or misuse of this script.
@@ -18,20 +18,9 @@ allow pasting
 ```
 This will enable pasting in the Console tab.
 
-### Step 3: Activate the Cheat
-Choose one of the following modes:
-
 #### In-Game Overlay Mode
 ![preview](https://github.com/RXSEESH/jsloader/blob/main/Screenshot_1.png?raw=true)
-1. Copy the following code:
-```javascript
-fetch('https://raw.githubusercontent.com/akatiggerx04/openguessr-cheats/refs/heads/main/cheat-overlay.js').then(r => r.text()).then(eval);
-```
-2. Paste it in the Console tab.
-3. Press Enter to execute the code.
-After executing the code, you should see a new "Find Coordinates" button added to the game in the top right corner.
 
-#### Separate Window Mode
 1. Copy the following code:
 ```javascript
 fetch('https://raw.githubusercontent.com/RXSEESH/jsloader/refs/heads/main/cheat.js').then(r => r.text()).then(eval);
