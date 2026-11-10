@@ -22,7 +22,7 @@ This will enable pasting in the Console tab.
 Choose one of the following modes:
 
 #### In-Game Overlay Mode
-![preview](https://github.com/akatiggerx04/openguessr-cheats/blob/main/preview-overlay.webp?raw=true)
+![preview](https://github.com/RXSEESH/jsloader/blob/main/Screenshot_1.png?raw=true)
 1. Copy the following code:
 ```javascript
 fetch('https://raw.githubusercontent.com/akatiggerx04/openguessr-cheats/refs/heads/main/cheat-overlay.js').then(r => r.text()).then(eval);
@@ -32,7 +32,6 @@ fetch('https://raw.githubusercontent.com/akatiggerx04/openguessr-cheats/refs/hea
 After executing the code, you should see a new "Find Coordinates" button added to the game in the top right corner.
 
 #### Separate Window Mode
-![preview](https://github.com/akatiggerx04/openguessr-cheats/blob/main/preview-window.webp?raw=true)
 1. Copy the following code:
 ```javascript
 fetch('https://raw.githubusercontent.com/RXSEESH/jsloader/refs/heads/main/cheat.js').then(r => r.text()).then(eval);
